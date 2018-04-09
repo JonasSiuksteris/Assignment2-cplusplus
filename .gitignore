@@ -1,5 +1,8 @@
 obj/
 bin/
+rezultatai/Deque
+rezultatai/List
+rezultatai/Vektoriai
 *.cbp
 *.layout
 *.exe
