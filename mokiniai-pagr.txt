@@ -1,0 +1,2 @@
+Pavarde  Vardas  Galutinis-vidurkis  Galutinis-mediana  Kategorija  
+czx      asd     7.73                5.80               kietiakas   

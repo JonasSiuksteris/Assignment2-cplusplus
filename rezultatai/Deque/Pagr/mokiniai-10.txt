@@ -1,0 +1,11 @@
+Pavarde    Vardas    Galutinis-vidurkis  Galutinis-mediana  Kategorija  
+Pavarde1   Vardas1   5.92                6.00               kietiakas   
+Pavarde10  Vardas10  8.76                9.00               kietiakas   
+Pavarde2   Vardas2   7.16                7.80               kietiakas   
+Pavarde3   Vardas3   2.92                3.00               vargsiukas  
+Pavarde4   Vardas4   2.44                2.20               vargsiukas  
+Pavarde5   Vardas5   7.20                7.60               kietiakas   
+Pavarde6   Vardas6   4.20                4.60               vargsiukas  
+Pavarde7   Vardas7   6.72                7.20               kietiakas   
+Pavarde8   Vardas8   7.04                7.20               kietiakas   
+Pavarde9   Vardas9   3.48                3.40               vargsiukas  

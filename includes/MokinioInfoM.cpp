@@ -13,8 +13,10 @@ void MokinioInfoM(vector<Mokinys>& M, int& sk)
     cin >> M[sk].pavarde;
     cout << "1 - Generuoja atsitiktini pazymi\n2 - baigti generuoti" << endl;
     cin >> nDarbas;
-    while(nDarbas != 2)
+    while(nDarbas != 2 || !cin)
     {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         if(nDarbas == 1)
         {
             M[sk].Paz.push_back(dist(mt));

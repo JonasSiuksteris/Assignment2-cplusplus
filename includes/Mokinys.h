@@ -7,4 +7,5 @@ struct Mokinys
     double gVid{};
     double gMed{};
     int pSk{};
+    string kategorija;
 };
