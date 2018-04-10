@@ -1,15 +1,24 @@
 Darbas 2:
 
+
+## Vertinimas
+
+Pataisyti:
+
+- Papildyti README aprasyma gautais rezultatais (geriausia lenteles pavidale)
+
+
+
 Release v0.1:
 
-#Duomenys sugeneruojami automatiškai, kol nutraukiama su 2
+# Duomenys sugeneruojami automatiškai, kol nutraukiama su 2
 
 #Skaičiuojamas vidurkis ir mediana
 
 
 Release v0.2:
 
-#Duomenys skaitomi iš failo
+# Duomenys skaitomi iš failo
 
 #Informacija apdorojama ir išspausdinama lentelė
 
