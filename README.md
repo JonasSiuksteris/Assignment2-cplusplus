@@ -1,5 +1,7 @@
 Darbas 2:
+
 Release v0.1:
+
 #Duomenys sugeneruojami automatiškai, kol nutraukiama su 2
 #Skaičiuojamas vidurkis ir mediana
 
