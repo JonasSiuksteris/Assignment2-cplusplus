@@ -3,6 +3,8 @@ Darbas 2:
 
 ## Vertinimas
 
+- Kovo men. nebuvo commit'u
+
 Pataisyti:
 
 - Papildyti README aprasyma gautais rezultatais (geriausia lenteles pavidale)
