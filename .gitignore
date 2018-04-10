@@ -1,5 +1,7 @@
 obj/
 bin/
+.idea/
+CMakeFiles/
 rezultatai/Deque
 rezultatai/List
 rezultatai/Vektoriai
@@ -9,3 +11,5 @@ rezultatai/Vektoriai
 *.o
 *.depend
 *.txt
+*.cmake
+Makefile
